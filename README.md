@@ -24,7 +24,3 @@ This project transforms raw multi-table Airbnb datasets into an interactive, sta
 
 ---
 
-## 🚀 Dashboard Preview
-*(Add screenshots or GIFs of your live Power BI dashboard here)*
-
----
